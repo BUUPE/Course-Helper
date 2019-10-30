@@ -1,0 +1,29 @@
+Ideas: 
+
+Ratings by Course: 
+- Professor 
+- Courseload
+- Amount of Hours 
+- Relevance 
+- TA/TF
+- Year and Semester 
+- Syllabus
+- Course Description 
+- Books 
+- Recommendation 
+- Prereqs that were actually useful 
+- Crossover courses 
+- Class attendance and lab 
+- Overall rating with description 
+- Difficulty: Midterms and Homework
+- Whether you are a major or not 
+
+SQLite 
+Web Application 
+Rate my Professors API 
+BU Login 
+
+
+Input information to see new information 
+Initially add to 1-2 classes when first sign up 
+Points to see more classes (unlock new classes) 
